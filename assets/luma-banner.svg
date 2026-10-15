@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+<title id="title">Luma — Your gaming life, at home.</title>
+<desc id="desc">Warm white Luma lettering above a green aurora. An illuminated four-point star connects three constellations representing home, library, and journey.</desc>
+<defs>
+ <radialGradient id="bg" cx="78%" cy="30%" r="85%"><stop stop-color="#163d35"/><stop offset=".55" stop-color="#0b1b1c"/><stop offset="1" stop-color="#080c0e"/></radialGradient>
+ <linearGradient id="mint" x2="1" y2="1"><stop stop-color="#c5f7df"/><stop offset=".48" stop-color="#50cb99"/><stop offset="1" stop-color="#21765f"/></linearGradient>
+ <linearGradient id="wave"><stop stop-color="#10372e" stop-opacity="0"/><stop offset=".5" stop-color="#42b88c" stop-opacity=".4"/><stop offset="1" stop-color="#1e6467" stop-opacity="0"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#62d6a7" stop-opacity=".2"/><stop offset="1" stop-color="#62d6a7" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1600" height="600" rx="28" fill="url(#bg)"/>
+<circle cx="1220" cy="245" r="290" fill="url(#halo)"/>
+<g fill="none" stroke="url(#wave)">
+ <path d="M0 510C430 660 580 230 1000 435S1420 510 1600 300" stroke-width="90" opacity=".15"/>
+ <path d="M0 535C430 655 600 265 1000 450S1420 540 1600 360" stroke-width="2"/>
+ <path d="M0 555C430 670 600 285 1000 470S1420 560 1600 380" opacity=".5"/>
+</g>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <text x="88" y="102" font-size="17" letter-spacing="5" fill="#81bca6">YOUR PERSONAL GAMING SYSTEM</text>
+ <text x="80" y="288" font-size="174" font-weight="650" letter-spacing="10" fill="#f5f2e9">LUMA</text>
+ <text x="88" y="364" font-size="38" fill="#f5f2e9">Your gaming life, at home.</text>
+ <text x="90" y="414" font-size="21" fill="#a6b9b3">Your games. Your collection. Your journey.</text>
+ <text x="90" y="528" font-size="15" letter-spacing="3" fill="#80a89a">DESKTOP / HANDHELD / DOCKED</text>
+</g>
+<g fill="none" stroke="#73bd9f">
+ <circle cx="1220" cy="252" r="138" opacity=".13"/>
+ <circle cx="1220" cy="252" r="205" opacity=".08"/>
+ <path d="M1045 151 1220 252 1400 151M1220 252 1220 447" opacity=".35"/>
+ <path d="M1045 151 1009 196 1033 227M1400 151 1441 189 1428 238M1220 447 1280 476 1327 451" opacity=".28"/>
+</g>
+<path d="M1220 166Q1231 240 1306 252Q1231 264 1220 338Q1209 264 1134 252Q1209 240 1220 166Z" fill="url(#mint)"/>
+<g fill="#88dab3"><circle cx="1045" cy="151" r="5"/><circle cx="1400" cy="151" r="5"/><circle cx="1220" cy="447" r="5"/></g>
+<g fill="#547d70"><circle cx="1009" cy="196" r="3"/><circle cx="1033" cy="227" r="3"/><circle cx="1441" cy="189" r="3"/><circle cx="1428" cy="238" r="3"/><circle cx="1280" cy="476" r="3"/><circle cx="1327" cy="451" r="3"/></g>
+<g font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="3" fill="#a4c8b8"><text x="1013" y="125">HOME</text><text x="1357" y="125">LIBRARY</text><text x="1100" y="488">JOURNEY</text></g>
+<rect x=".5" y=".5" width="1599" height="599" rx="28" fill="none" stroke="#81bca6" stroke-opacity=".13"/>
+</svg>
